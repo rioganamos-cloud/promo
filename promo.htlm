@@ -167,5 +167,16 @@
       <div class="muted small">© Programa de Recompensas</div>
     </div>
   </footer>
+<!-- Botón flotante WhatsApp -->
+<a
+  class="wa-float"
+  href="https://wa.me/549XXXXXXXXXX?text=Hola%20quiero%20info%20sobre%20el%20programa%20de%20beneficios"
+  target="_blank"
+  rel="noopener"
+  aria-label="Contactar por WhatsApp"
+>
+  <span class="wa-ic" aria-hidden="true">WA</span>
+  <span class="wa-txt">WhatsApp</span>
+</a>
 </body>
 </html>
